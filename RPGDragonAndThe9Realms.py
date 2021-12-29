@@ -1,4 +1,4 @@
-#Stephen Deline Jr
+#apocalypsecoder0
 #Date Started thursday /october 6-7/ 2021
 
 #role playing game 
@@ -5155,7 +5155,7 @@ def credits():
                 " Peace' rule in this game\n\n")
     print_pause("___________________ CREDITS ____________________")
     print_pause("\nThis game was developed by and\nsole property of "
-                "// 'stephen deline jr' //\n")
+                Apocalypsecoder0' //\n")
     print_pause("Cast and Crew:")
     print_pause("Protagonist - " + player)
     print_pause("Princess    - princess herself")
